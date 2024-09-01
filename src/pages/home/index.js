@@ -2,10 +2,13 @@ import { useState } from "react";
 import { FiLink } from "react-icons/fi";
 import "./home.css";
 
+import LinkItem from "../../components/LinkItem";
 import Menu from "../../components/Menu";
 
 export default function Home() {
     const [link, setLink] = useState("");
+    const [data, setData] = useState({});
+    const [showModal, setShowModal] = useState(false);
 
     return (
         <div className="container-home">
@@ -30,6 +33,13 @@ export default function Home() {
             </div>
 
             <Menu />
+
+            {showModal && (
+                <LinkItem
+                    closeModal={() => setShowModal(false)}
+                    content={data}
+                />
+            )}
         </div>
     );
 }
