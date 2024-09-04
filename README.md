@@ -16,7 +16,7 @@ Make sure you have [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/
 ### 📂 Cloning the Repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/bortolettojoaog/myLink.git
 
 cd your-repository
 ```
