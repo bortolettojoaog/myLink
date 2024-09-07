@@ -27,3 +27,9 @@ npm install
 ```bash
 npm start
 ```
+
+### 📖 Como Usar:
+
+1. Abra seu navegador e vá para http://localhost:3000.
+2. Explore as funcionalidades do aplicativo.
+3. Divirta-se!
