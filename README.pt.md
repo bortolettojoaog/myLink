@@ -41,3 +41,11 @@ npm start
 3. Commit suas mudanças (`git commit -m 'feat: Adiciona nova feature'`).
 4. Faça um push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
+
+### 🌟 Boas Práticas:
+
+É importante utilizar Git Flow para gerenciar suas branches:
+
+-   `feature` para novas funcionalidades
+-   `bugfix` para correções de bugs
+-   `hotfix` para correções urgentes
