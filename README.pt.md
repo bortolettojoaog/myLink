@@ -49,3 +49,11 @@ npm start
 -   `feature` para novas funcionalidades
 -   `bugfix` para correções de bugs
 -   `hotfix` para correções urgentes
+
+Além disso, utilize Conventional Commits para padronizar suas mensagens de commit:
+
+-   `feat` para novas funcionalidades
+-   `fix` para correções de bugs
+-   `chore` para tarefas de manutenção
+-   `style` para mudanças de estilo (formatação, etc.)
+-   `docs` para documentação
