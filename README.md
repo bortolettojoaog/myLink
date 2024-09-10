@@ -18,7 +18,7 @@ Make sure you have [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/
 ```bash
 git clone https://github.com/bortolettojoaog/myLink.git
 
-cd your-repository
+cd myLink
 ```
 
 ### 🔧 Installing Dependencies:

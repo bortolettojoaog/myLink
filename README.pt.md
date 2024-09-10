@@ -13,7 +13,7 @@ Certifique-se de ter o [Git](https://git-scm.com/) e o [Node.js](https://nodejs.
 ```bash
 git clone https://github.com/bortolettojoaog/myLink.git
 
-cd seu-repositorio
+cd myLink
 ```
 
 ### 🔧 Instalando Dependências:
