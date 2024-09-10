@@ -57,3 +57,20 @@ Além disso, utilize Conventional Commits para padronizar suas mensagens de comm
 -   `chore` para tarefas de manutenção
 -   `style` para mudanças de estilo (formatação, etc.)
 -   `docs` para documentação
+
+### 🛠️ Tecnologias Utilizadas:
+
+-   [ReactJs](https://reactjs.org/)
+-   [Bit.ly]()
+
+### 📄 Licença:
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+---
+
+<p align="center">Made with ❤️ by João Guilherme Bortoletto 👋</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/bortolettojoaog/">See my LinkedIn</a>
+</p>
